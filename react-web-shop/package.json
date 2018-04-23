@@ -2,7 +2,7 @@
 	"name": "react-web-shop",
 	"version": "1.0.0",
 	"description": "a web shop using react",
-	"main": "index.js",
+	"main": "app.jsx",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
